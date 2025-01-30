@@ -45,3 +45,12 @@ The dataset consists of e-commerce **shipping data**, including:
 ---
 
 
+## 📬 **Contact**
+📧 Email: sharukusa987@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/sharukshaik987/
+
+🔗 GitHub: https://github.com/sharukshaik987/
+
+⭐ If you found this project helpful, please give it a star! ⭐
+
