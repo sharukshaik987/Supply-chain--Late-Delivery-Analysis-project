@@ -40,6 +40,7 @@ The dataset consists of e-commerce **shipping data**, including:
 
 📌 **Table Name:** `c_data`  
 📌 **Database:** Microsoft SQL Server  
+📌 ** Kaggle Dataset:** https://www.kaggle.com/datasets/aaumgupta/refined-dataco-supply-chain-geospatial-dataset
 
 ---
 
