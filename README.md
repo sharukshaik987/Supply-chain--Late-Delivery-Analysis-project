@@ -3,7 +3,7 @@
 ![SQL](https://img.shields.io/badge/SQL-Advanced-blue?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?style=for-the-badge&logo=PowerBI&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-Data%20Cleaning-green?style=for-the-badge&logo=MicrosoftExcel&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Version%201.0-black?style=for-the-badge&logo=github)
+![GitHub](https://img.shields.io/badge/GitHub--black?style=for-the-badge&logo=github)
 
 ---
 
