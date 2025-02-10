@@ -52,5 +52,5 @@ The dataset consists of e-commerce **shipping data**, including:
 
 🔗 GitHub: https://github.com/sharukshaik987/
 
-⭐ If you found this project helpful, please give it a star! ⭐
+
 
